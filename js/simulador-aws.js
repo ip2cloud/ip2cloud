@@ -33,7 +33,7 @@ $(document).ready(function() {
     };
 
     // Insere github ribbons
-    $('body').append("<div class='github'><a href='https://github.com/GlobalWebCorp/simulador-aws'><img src='img/forkme_left_orange_ff76002.png' alt='Fork me on GitHub'></a></div>");
+    $('body').append("<div class='github'><a href='https://github.com/ip2cloud/ip2simuladoraws'><img src='img/forkme_left_orange_ff7600.png' alt='Fork me on GitHub'></a></div>");
     // Insere Cabecalho
     $('body').append("<div class='cabecalho'><div class='logo-global'></div><div class='titulo'>TI tradicional vs Amazon AWS</div><div class='logo-aws'></div></div>");
     // Insere avisos
